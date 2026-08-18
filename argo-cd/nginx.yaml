@@ -8,7 +8,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/mahmoud-reda-00/argo-test.git
+    repoURL: 'https://github.com/mahmoud-reda-00/argo-test.git'
     path: overlays
     targetRevision: main
 
